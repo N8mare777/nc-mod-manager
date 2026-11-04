@@ -11,6 +11,10 @@ for **Cyberpunk 2077** — one EXE, no installer, no settings left behind.
 ![Version](https://img.shields.io/badge/version-0.2.1-FFE500)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Screenshot
+
+![NightCoop Manager main window](docs/screenshot.png)
+
 ## Features
 
 - Detects the game folder via Steam (registry + libraries), GOG (registry),

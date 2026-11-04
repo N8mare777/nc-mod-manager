@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: NightCoop mod support
+    url: https://nightcoop.net/
+    about: Problems with the mod itself, servers, gameplay or bans — ask the mod authors here.
+  - name: NightCoop Discord
+    url: https://nightcoop.net/
+    about: Community chat and help with the mod (link on the official site).
