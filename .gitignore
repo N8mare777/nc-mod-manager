@@ -17,3 +17,8 @@ probe_*/
 .idea/
 Thumbs.db
 desktop.ini
+
+# Local tooling (portable gh, its config, downloads)
+tools/
+.ghconfig/
+gh.zip

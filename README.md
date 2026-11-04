@@ -27,7 +27,8 @@ for **Cyberpunk 2077** — one EXE, no installer, no settings left behind.
 
 ## Installation
 
-1. Download `NightCoopManager.exe` from [Releases](../../releases/latest).
+1. Download `NightCoopManager.exe` from
+   [Releases](https://github.com/N8mare777/nc-mod-manager/releases/latest).
 2. Run it — no installation required.
 3. The game folder is detected automatically; press **Install** or **Update**.
 
