@@ -87,3 +87,7 @@ contact the NightCoop authors and the official website — not this project.
 ## License
 
 [MIT](LICENSE)
+
+The **NightCoop** name, logo and any artwork taken from the original mod belong to the
+NightCoop authors and are **not** covered by the MIT license. `logo.png` is used only as a
+visual reference for this unofficial tool and will be removed on request from the authors.
